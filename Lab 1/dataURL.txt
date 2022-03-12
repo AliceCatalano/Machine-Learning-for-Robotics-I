@@ -1,0 +1,2 @@
+https://2021.aulaweb.unige.it/pluginfile.php/97372/mod_assign/intro/weather.data   DATASET
+https://2021.aulaweb.unige.it/pluginfile.php/97372/mod_assign/intro/weather.names  DATA DESCRIPTION
